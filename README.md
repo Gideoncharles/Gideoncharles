@@ -8,5 +8,3 @@
 Gideoncharles/Gideoncharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Languages and Tools:
-angular aws babel bootstrap chartjs css3 docker express figma git heroku html5 javascript linux mocha mongodb mysql nginx nodejs pandas postman pug python react reactnative redux sass seaborn typescript
